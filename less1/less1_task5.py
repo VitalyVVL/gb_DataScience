@@ -1,4 +1,5 @@
 
+
 income  = int(input("Enter income: "))
 expense = int(input("Enter expense: "))
 profit = income-expense

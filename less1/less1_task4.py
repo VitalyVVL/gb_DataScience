@@ -1,3 +1,4 @@
+
 num = int(input("Enter a positive integer: "))
 n = num
 max_digit = n % 10
