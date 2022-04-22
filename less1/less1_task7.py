@@ -7,3 +7,5 @@ while temp_a<=b:
     temp_a*=1.1
     num_day +=1
 print(f"Day: {num_day} = {temp_a:.2f}")
+
+
