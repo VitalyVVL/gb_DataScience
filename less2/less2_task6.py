@@ -1,3 +1,4 @@
+
 goods = []
 good = {}
 reg_goods_dict = {'name':'Наименование','price':'Цена','quantity':'Количество', 'unit':'единица измерения'}

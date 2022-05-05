@@ -1,3 +1,4 @@
+
 my_list = input('Enter list -').split(",")
 
 for i in range(1, len(my_list),2):

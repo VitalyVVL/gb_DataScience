@@ -1,3 +1,4 @@
+
 rating = [7,5,3,3,2]
 for temp_i in range(3):
     print("Текущее состояние рейтинга: ",rating)

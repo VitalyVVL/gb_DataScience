@@ -1,3 +1,5 @@
+
+
 a = int(input("Enter how much the athlete ran on the first day: "))
 b = int(input("Enter how much you need to run: "))
 
